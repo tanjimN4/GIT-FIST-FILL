@@ -1,0 +1,11 @@
+h1{color: aqua;}
+div{background-color: navy;
+padding-left: 10px;
+width: 70%;}
+p{color:cadetblue; font-size: larger;}
+ol{
+    background-color: black;
+    color: azure;
+    font-size: x-large;
+    width: 66%;
+}
